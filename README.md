@@ -33,3 +33,7 @@ Ultimaker Cura 4.8.0
 - Filament: Inland PLA+ 1.75mm Black
 - Material: PLA+
 - Print Temperature: 205 degrees C
+
+## Preview
+
+![Preview of STL in Cura](Preview.png "Preview in Cura")
