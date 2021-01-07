@@ -24,6 +24,8 @@ Autocad Fusion 360
 
 Ultimaker Cura 4.8.0
 
+- Printer: Creality CR6 SE
+
 - Layer Height: 0.2mm
 - Infill Density: 10%
 - Infill Pattern: Grid
