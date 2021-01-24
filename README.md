@@ -33,10 +33,11 @@ Ultimaker Cura 4.8.0
 - Infill Density: 10%
 - Infill Pattern: Grid
 
-- Filament: Inland PLA+ 1.75mm Black
+- Filament: Inland PLA+ 1.75mm Silver
 - Material: PLA+
-- Print Temperature: 205 degrees C
+- Print Temperature: 215 degrees C
 
 ## Preview
 
 ![Preview of STL in Cura](Preview.png "Preview in Cura")
+![Printed](preview2.jpg "Printed and in use")
